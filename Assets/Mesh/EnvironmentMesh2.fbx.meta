@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 7d5c6c2040042c948b9362fb0b89f508
+timeCreated: 1523401483
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cabinet
+    100002: Celing
+    100004: CelingLightGroup1
+    100006: CelingLightGroup2
+    100008: Chair
+    100010: Chair2
+    100012: Desk
+    100014: DeskGroup
+    100016: EllipseKey
+    100018: //RootNode
+    100020: Floor
+    100022: FlowerPot
+    100024: Glass Vat
+    100026: GlassWall
+    100028: GlassWall2
+    100030: GlassWall3
+    100032: GlassWall4
+    100034: GlassWall5
+    100036: GlassWallFrame
+    100038: HatchDoor2
+    100040: HatchDoor2.001
+    100042: HatchDoor3
+    100044: HatchDoor3.001
+    100046: HatchKey
+    100048: IsoKey
+    100050: Key1
+    100052: Key2
+    100054: Key3
+    100056: Key4
+    100058: Key5
+    100060: Key6
+    100062: Key7
+    100064: Key8
+    100066: Keyslot
+    100068: Lab Vat
+    100070: LabTable
+    100072: Laptop
+    100074: Laptop2
+    100076: Laptop3
+    100078: Laptop4
+    100080: Laptop5
+    100082: Lever1
+    100084: Lever2
+    100086: Lever3
+    100088: Lever4
+    100090: LeverBase1
+    100092: LeverBase2
+    100094: LeverBase3
+    100096: LeverBase4
+    100098: MainDoor
+    100100: OvalKey
+    100102: Pipe1
+    100104: Pipe2
+    100106: Pipe3
+    100108: Pot
+    100110: PowerLight
+    100112: PowerLightBase
+    100114: ReceptionDesk
+    100116: ReceptionDesk.001
+    100118: RectKey
+    100120: Safe
+    100122: SafeDoor
+    100124: Stairs
+    100126: Stairs2
+    100128: Surveilance Camera
+    100130: Surveilance Camera2
+    100132: Surveilance Camera3
+    100134: Surveilance Camera4
+    100136: Surveilance Camera5
+    100138: Surveilance Camera6
+    100140: Wall
+    100142: Wire
+    100144: Wire1
+    100146: Wrench
+    100148: Wrench.001
+    100150: Wrench.002
+    100152: Celing.001
+    100154: Celing.002
+    100156: Celing.003
+    100158: Celing.004
+    100160: Floor.001
+    100162: Floor.002
+    100164: Floor.003
+    100166: Wall.001
+    100168: Wall.002
+    100170: Wall.003
+    100172: Wall.004
+    100174: Wall.005
+    100176: Wall.006
+    100178: Wall.007
+    100180: Wall.008
+    100182: Wall.009
+    100184: Wall.010
+    100186: Wall.011
+    100188: Wall.012
+    100190: Wall.013
+    100192: Wall.014
+    100194: Wall.015
+    100196: Wall.016
+    100198: Wall.017
+    100200: Wall.018
+    100202: Cable1
+    100204: Cable2
+    100206: Cable3
+    100208: Cable4
+    100210: Generator
+    100212: Socket1
+    100214: Socket2
+    100216: Socket3
+    100218: Socket4
+    400000: Cabinet
+    400002: Celing
+    400004: CelingLightGroup1
+    400006: CelingLightGroup2
+    400008: Chair
+    400010: Chair2
+    400012: Desk
+    400014: DeskGroup
+    400016: EllipseKey
+    400018: //RootNode
+    400020: Floor
+    400022: FlowerPot
+    400024: Glass Vat
+    400026: GlassWall
+    400028: GlassWall2
+    400030: GlassWall3
+    400032: GlassWall4
+    400034: GlassWall5
+    400036: GlassWallFrame
+    400038: HatchDoor2
+    400040: HatchDoor2.001
+    400042: HatchDoor3
+    400044: HatchDoor3.001
+    400046: HatchKey
+    400048: IsoKey
+    400050: Key1
+    400052: Key2
+    400054: Key3
+    400056: Key4
+    400058: Key5
+    400060: Key6
+    400062: Key7
+    400064: Key8
+    400066: Keyslot
+    400068: Lab Vat
+    400070: LabTable
+    400072: Laptop
+    400074: Laptop2
+    400076: Laptop3
+    400078: Laptop4
+    400080: Laptop5
+    400082: Lever1
+    400084: Lever2
+    400086: Lever3
+    400088: Lever4
+    400090: LeverBase1
+    400092: LeverBase2
+    400094: LeverBase3
+    400096: LeverBase4
+    400098: MainDoor
+    400100: OvalKey
+    400102: Pipe1
+    400104: Pipe2
+    400106: Pipe3
+    400108: Pot
+    400110: PowerLight
+    400112: PowerLightBase
+    400114: ReceptionDesk
+    400116: ReceptionDesk.001
+    400118: RectKey
+    400120: Safe
+    400122: SafeDoor
+    400124: Stairs
+    400126: Stairs2
+    400128: Surveilance Camera
+    400130: Surveilance Camera2
+    400132: Surveilance Camera3
+    400134: Surveilance Camera4
+    400136: Surveilance Camera5
+    400138: Surveilance Camera6
+    400140: Wall
+    400142: Wire
+    400144: Wire1
+    400146: Wrench
+    400148: Wrench.001
+    400150: Wrench.002
+    400152: Celing.001
+    400154: Celing.002
+    400156: Celing.003
+    400158: Celing.004
+    400160: Floor.001
+    400162: Floor.002
+    400164: Floor.003
+    400166: Wall.001
+    400168: Wall.002
+    400170: Wall.003
+    400172: Wall.004
+    400174: Wall.005
+    400176: Wall.006
+    400178: Wall.007
+    400180: Wall.008
+    400182: Wall.009
+    400184: Wall.010
+    400186: Wall.011
+    400188: Wall.012
+    400190: Wall.013
+    400192: Wall.014
+    400194: Wall.015
+    400196: Wall.016
+    400198: Wall.017
+    400200: Wall.018
+    400202: Cable1
+    400204: Cable2
+    400206: Cable3
+    400208: Cable4
+    400210: Generator
+    400212: Socket1
+    400214: Socket2
+    400216: Socket3
+    400218: Socket4
+    2300000: Cabinet
+    2300002: Celing
+    2300004: CelingLightGroup1
+    2300006: CelingLightGroup2
+    2300008: Chair
+    2300010: Chair2
+    2300012: Desk
+    2300014: DeskGroup
+    2300016: EllipseKey
+    2300018: Floor
+    2300020: FlowerPot
+    2300022: Glass Vat
+    2300024: GlassWall
+    2300026: GlassWall2
+    2300028: GlassWall3
+    2300030: GlassWall4
+    2300032: GlassWall5
+    2300034: GlassWallFrame
+    2300036: HatchDoor2
+    2300038: HatchDoor2.001
+    2300040: HatchDoor3
+    2300042: HatchDoor3.001
+    2300044: HatchKey
+    2300046: IsoKey
+    2300048: Key1
+    2300050: Key2
+    2300052: Key3
+    2300054: Key4
+    2300056: Key5
+    2300058: Key6
+    2300060: Key7
+    2300062: Key8
+    2300064: Keyslot
+    2300066: Lab Vat
+    2300068: LabTable
+    2300070: Laptop
+    2300072: Laptop2
+    2300074: Laptop3
+    2300076: Laptop4
+    2300078: Laptop5
+    2300080: Lever1
+    2300082: Lever2
+    2300084: Lever3
+    2300086: Lever4
+    2300088: LeverBase1
+    2300090: LeverBase2
+    2300092: LeverBase3
+    2300094: LeverBase4
+    2300096: MainDoor
+    2300098: OvalKey
+    2300100: Pipe1
+    2300102: Pipe2
+    2300104: Pipe3
+    2300106: Pot
+    2300108: PowerLight
+    2300110: PowerLightBase
+    2300112: ReceptionDesk
+    2300114: ReceptionDesk.001
+    2300116: RectKey
+    2300118: Safe
+    2300120: SafeDoor
+    2300122: Stairs
+    2300124: Stairs2
+    2300126: Surveilance Camera
+    2300128: Surveilance Camera2
+    2300130: Surveilance Camera3
+    2300132: Surveilance Camera4
+    2300134: Surveilance Camera5
+    2300136: Surveilance Camera6
+    2300138: Wall
+    2300140: Wire
+    2300142: Wire1
+    2300144: Wrench
+    2300146: Wrench.001
+    2300148: Wrench.002
+    2300150: Celing.001
+    2300152: Celing.002
+    2300154: Celing.003
+    2300156: Celing.004
+    2300158: Floor.001
+    2300160: Floor.002
+    2300162: Floor.003
+    2300164: Wall.001
+    2300166: Wall.002
+    2300168: Wall.003
+    2300170: Wall.004
+    2300172: Wall.005
+    2300174: Wall.006
+    2300176: Wall.007
+    2300178: Wall.008
+    2300180: Wall.009
+    2300182: Wall.010
+    2300184: Wall.011
+    2300186: Wall.012
+    2300188: Wall.013
+    2300190: Wall.014
+    2300192: Wall.015
+    2300194: Wall.016
+    2300196: Wall.017
+    2300198: Wall.018
+    2300200: Cable1
+    2300202: Cable2
+    2300204: Cable3
+    2300206: Cable4
+    2300208: Generator
+    2300210: Socket1
+    2300212: Socket2
+    2300214: Socket3
+    2300216: Socket4
+    3300000: Cabinet
+    3300002: Celing
+    3300004: CelingLightGroup1
+    3300006: CelingLightGroup2
+    3300008: Chair
+    3300010: Chair2
+    3300012: Desk
+    3300014: DeskGroup
+    3300016: EllipseKey
+    3300018: Floor
+    3300020: FlowerPot
+    3300022: Glass Vat
+    3300024: GlassWall
+    3300026: GlassWall2
+    3300028: GlassWall3
+    3300030: GlassWall4
+    3300032: GlassWall5
+    3300034: GlassWallFrame
+    3300036: HatchDoor2
+    3300038: HatchDoor2.001
+    3300040: HatchDoor3
+    3300042: HatchDoor3.001
+    3300044: HatchKey
+    3300046: IsoKey
+    3300048: Key1
+    3300050: Key2
+    3300052: Key3
+    3300054: Key4
+    3300056: Key5
+    3300058: Key6
+    3300060: Key7
+    3300062: Key8
+    3300064: Keyslot
+    3300066: Lab Vat
+    3300068: LabTable
+    3300070: Laptop
+    3300072: Laptop2
+    3300074: Laptop3
+    3300076: Laptop4
+    3300078: Laptop5
+    3300080: Lever1
+    3300082: Lever2
+    3300084: Lever3
+    3300086: Lever4
+    3300088: LeverBase1
+    3300090: LeverBase2
+    3300092: LeverBase3
+    3300094: LeverBase4
+    3300096: MainDoor
+    3300098: OvalKey
+    3300100: Pipe1
+    3300102: Pipe2
+    3300104: Pipe3
+    3300106: Pot
+    3300108: PowerLight
+    3300110: PowerLightBase
+    3300112: ReceptionDesk
+    3300114: ReceptionDesk.001
+    3300116: RectKey
+    3300118: Safe
+    3300120: SafeDoor
+    3300122: Stairs
+    3300124: Stairs2
+    3300126: Surveilance Camera
+    3300128: Surveilance Camera2
+    3300130: Surveilance Camera3
+    3300132: Surveilance Camera4
+    3300134: Surveilance Camera5
+    3300136: Surveilance Camera6
+    3300138: Wall
+    3300140: Wire
+    3300142: Wire1
+    3300144: Wrench
+    3300146: Wrench.001
+    3300148: Wrench.002
+    3300150: Celing.001
+    3300152: Celing.002
+    3300154: Celing.003
+    3300156: Celing.004
+    3300158: Floor.001
+    3300160: Floor.002
+    3300162: Floor.003
+    3300164: Wall.001
+    3300166: Wall.002
+    3300168: Wall.003
+    3300170: Wall.004
+    3300172: Wall.005
+    3300174: Wall.006
+    3300176: Wall.007
+    3300178: Wall.008
+    3300180: Wall.009
+    3300182: Wall.010
+    3300184: Wall.011
+    3300186: Wall.012
+    3300188: Wall.013
+    3300190: Wall.014
+    3300192: Wall.015
+    3300194: Wall.016
+    3300196: Wall.017
+    3300198: Wall.018
+    3300200: Cable1
+    3300202: Cable2
+    3300204: Cable3
+    3300206: Cable4
+    3300208: Generator
+    3300210: Socket1
+    3300212: Socket2
+    3300214: Socket3
+    3300216: Socket4
+    4300000: Wire1
+    4300002: LeverBase4
+    4300004: Lever4
+    4300006: Lever3
+    4300008: LeverBase3
+    4300010: LeverBase2
+    4300012: Lever2
+    4300014: GlassWall5
+    4300016: GlassWall4
+    4300018: GlassWall3
+    4300020: GlassWall2
+    4300022: Lever1
+    4300024: LeverBase1
+    4300026: GlassWall
+    4300028: GlassWallFrame
+    4300030: Glass Vat
+    4300032: Lab Vat
+    4300034: Cabinet
+    4300036: Laptop5
+    4300038: Laptop4
+    4300040: Laptop3
+    4300042: Laptop2
+    4300044: Pot
+    4300046: LabTable
+    4300048: CelingLightGroup1
+    4300050: ReceptionDesk.001
+    4300052: CelingLightGroup2
+    4300054: Wrench.002
+    4300056: Wrench.001
+    4300058: Chair2
+    4300060: DeskGroup
+    4300062: Pipe3
+    4300064: Pipe2
+    4300066: Surveilance Camera6
+    4300068: Surveilance Camera5
+    4300070: Surveilance Camera4
+    4300072: Surveilance Camera3
+    4300074: Celing
+    4300076: Stairs2
+    4300078: Stairs
+    4300080: HatchDoor3.001
+    4300082: Floor
+    4300084: HatchDoor2.001
+    4300086: MainDoor
+    4300088: Laptop
+    4300090: ReceptionDesk
+    4300092: Wire
+    4300094: Surveilance Camera2
+    4300096: Surveilance Camera
+    4300098: PowerLight
+    4300100: PowerLightBase
+    4300102: Pipe1
+    4300104: Wall
+    4300106: Wrench
+    4300108: Desk
+    4300110: Key5
+    4300112: Key6
+    4300114: Key7
+    4300116: Key8
+    4300118: Key4
+    4300120: Key3
+    4300122: Key2
+    4300124: Key1
+    4300126: SafeDoor
+    4300128: Safe
+    4300130: Chair
+    4300132: FlowerPot
+    4300134: HatchDoor2
+    4300136: Keyslot
+    4300138: HatchDoor3
+    4300140: HatchKey
+    4300142: RectKey
+    4300144: EllipseKey
+    4300146: OvalKey
+    4300148: IsoKey
+    4300150: Floor.003
+    4300152: Floor.002
+    4300154: Floor.001
+    4300156: Wall.018
+    4300158: Wall.017
+    4300160: Wall.016
+    4300162: Wall.015
+    4300164: Wall.014
+    4300166: Wall.013
+    4300168: Wall.012
+    4300170: Wall.011
+    4300172: Wall.010
+    4300174: Wall.009
+    4300176: Wall.008
+    4300178: Wall.007
+    4300180: Wall.006
+    4300182: Wall.005
+    4300184: Wall.004
+    4300186: Wall.003
+    4300188: Wall.002
+    4300190: Wall.001
+    4300192: Celing.004
+    4300194: Celing.003
+    4300196: Celing.002
+    4300198: Celing.001
+    4300200: Cable3
+    4300202: Cable4
+    4300204: Cable2
+    4300206: Cable1
+    4300208: Socket1
+    4300210: Socket2
+    4300212: Socket4
+    4300214: Socket3
+    4300216: Generator
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

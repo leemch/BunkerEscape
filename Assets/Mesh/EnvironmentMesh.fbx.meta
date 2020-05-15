@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 6ac4205a01f4bfb47add9938ee7b611c
+timeCreated: 1522025559
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Celing
+    100002: Celing2
+    100004: Chair
+    100006: Desk
+    100008: EllipseKey
+    100010: //RootNode
+    100012: Floor
+    100014: Floor2
+    100016: FlowerPot
+    100018: HatchDoor2
+    100020: HatchDoor3
+    100022: HatchKey
+    100024: IsoKey
+    100026: Key1
+    100028: Key2
+    100030: Key3
+    100032: Key4
+    100034: Key5
+    100036: Key6
+    100038: Key7
+    100040: Key8
+    100042: Keyslot
+    100044: Ladder
+    100046: Laptop
+    100048: Lever
+    100050: MainDoor
+    100052: OvalKey
+    100054: Pipe1
+    100056: Pipe2
+    100058: PowerBox
+    100060: PowerLight
+    100062: PowerLightBase
+    100064: ReceptionDesk
+    100066: RectKey
+    100068: Safe
+    100070: SafeDoor
+    100072: Surveilance Camera
+    100074: Surveilance Camera2
+    100076: Wall1
+    100078: Wall10
+    100080: Wall11
+    100082: Wall12
+    100084: Wall13
+    100086: Wall2
+    100088: Wall3
+    100090: Wall4
+    100092: Wall5
+    100094: Wall7
+    100096: Wall8
+    100098: Wall9
+    100100: Wire
+    100102: Wrench
+    400000: Celing
+    400002: Celing2
+    400004: Chair
+    400006: Desk
+    400008: EllipseKey
+    400010: //RootNode
+    400012: Floor
+    400014: Floor2
+    400016: FlowerPot
+    400018: HatchDoor2
+    400020: HatchDoor3
+    400022: HatchKey
+    400024: IsoKey
+    400026: Key1
+    400028: Key2
+    400030: Key3
+    400032: Key4
+    400034: Key5
+    400036: Key6
+    400038: Key7
+    400040: Key8
+    400042: Keyslot
+    400044: Ladder
+    400046: Laptop
+    400048: Lever
+    400050: MainDoor
+    400052: OvalKey
+    400054: Pipe1
+    400056: Pipe2
+    400058: PowerBox
+    400060: PowerLight
+    400062: PowerLightBase
+    400064: ReceptionDesk
+    400066: RectKey
+    400068: Safe
+    400070: SafeDoor
+    400072: Surveilance Camera
+    400074: Surveilance Camera2
+    400076: Wall1
+    400078: Wall10
+    400080: Wall11
+    400082: Wall12
+    400084: Wall13
+    400086: Wall2
+    400088: Wall3
+    400090: Wall4
+    400092: Wall5
+    400094: Wall7
+    400096: Wall8
+    400098: Wall9
+    400100: Wire
+    400102: Wrench
+    2300000: Celing
+    2300002: Celing2
+    2300004: Chair
+    2300006: Desk
+    2300008: EllipseKey
+    2300010: Floor
+    2300012: Floor2
+    2300014: FlowerPot
+    2300016: HatchDoor2
+    2300018: HatchDoor3
+    2300020: HatchKey
+    2300022: IsoKey
+    2300024: Key1
+    2300026: Key2
+    2300028: Key3
+    2300030: Key4
+    2300032: Key5
+    2300034: Key6
+    2300036: Key7
+    2300038: Key8
+    2300040: Keyslot
+    2300042: Ladder
+    2300044: Laptop
+    2300046: Lever
+    2300048: MainDoor
+    2300050: OvalKey
+    2300052: Pipe1
+    2300054: Pipe2
+    2300056: PowerBox
+    2300058: PowerLight
+    2300060: PowerLightBase
+    2300062: ReceptionDesk
+    2300064: RectKey
+    2300066: Safe
+    2300068: SafeDoor
+    2300070: Surveilance Camera
+    2300072: Surveilance Camera2
+    2300074: Wall1
+    2300076: Wall10
+    2300078: Wall11
+    2300080: Wall12
+    2300082: Wall13
+    2300084: Wall2
+    2300086: Wall3
+    2300088: Wall4
+    2300090: Wall5
+    2300092: Wall7
+    2300094: Wall8
+    2300096: Wall9
+    2300098: Wire
+    2300100: Wrench
+    3300000: Celing
+    3300002: Celing2
+    3300004: Chair
+    3300006: Desk
+    3300008: EllipseKey
+    3300010: Floor
+    3300012: Floor2
+    3300014: FlowerPot
+    3300016: HatchDoor2
+    3300018: HatchDoor3
+    3300020: HatchKey
+    3300022: IsoKey
+    3300024: Key1
+    3300026: Key2
+    3300028: Key3
+    3300030: Key4
+    3300032: Key5
+    3300034: Key6
+    3300036: Key7
+    3300038: Key8
+    3300040: Keyslot
+    3300042: Ladder
+    3300044: Laptop
+    3300046: Lever
+    3300048: MainDoor
+    3300050: OvalKey
+    3300052: Pipe1
+    3300054: Pipe2
+    3300056: PowerBox
+    3300058: PowerLight
+    3300060: PowerLightBase
+    3300062: ReceptionDesk
+    3300064: RectKey
+    3300066: Safe
+    3300068: SafeDoor
+    3300070: Surveilance Camera
+    3300072: Surveilance Camera2
+    3300074: Wall1
+    3300076: Wall10
+    3300078: Wall11
+    3300080: Wall12
+    3300082: Wall13
+    3300084: Wall2
+    3300086: Wall3
+    3300088: Wall4
+    3300090: Wall5
+    3300092: Wall7
+    3300094: Wall8
+    3300096: Wall9
+    3300098: Wire
+    3300100: Wrench
+    4300000: MainDoor
+    4300002: Wall4
+    4300004: Laptop
+    4300006: ReceptionDesk
+    4300008: Wire
+    4300010: Surveilance Camera2
+    4300012: Surveilance Camera
+    4300014: PowerLight
+    4300016: PowerLightBase
+    4300018: Lever
+    4300020: Pipe2
+    4300022: Pipe1
+    4300024: Celing2
+    4300026: Wall13
+    4300028: Wall12
+    4300030: Wall11
+    4300032: Wall10
+    4300034: Wall9
+    4300036: Wall8
+    4300038: Wall7
+    4300040: Floor2
+    4300042: Wrench
+    4300044: Desk
+    4300046: Celing
+    4300048: Wall1
+    4300050: Wall3
+    4300052: Wall2
+    4300054: Floor
+    4300056: Key5
+    4300058: Key6
+    4300060: Key7
+    4300062: Key8
+    4300064: Key4
+    4300066: Key3
+    4300068: Key2
+    4300070: Key1
+    4300072: SafeDoor
+    4300074: Safe
+    4300076: Chair
+    4300078: PowerBox
+    4300080: FlowerPot
+    4300082: Ladder
+    4300084: HatchDoor2
+    4300086: Keyslot
+    4300088: HatchDoor3
+    4300090: Wall5
+    4300092: HatchKey
+    4300094: RectKey
+    4300096: EllipseKey
+    4300098: OvalKey
+    4300100: IsoKey
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

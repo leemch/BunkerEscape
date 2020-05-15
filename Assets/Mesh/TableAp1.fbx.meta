@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 8ed14219a08f4dd45a0b34cb17443514
+timeCreated: 1522704790
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Boole
+    100002: Boole.1
+    100004: Camera
+    100006: CINEMA_4D_Editor
+    100008: Cube.1.3
+    100010: Cube.2.3
+    100012: Leg1
+    100014: Leg2
+    100016: Leg3
+    100018: Leg4
+    100020: Linseneffekt_Quelle
+    100022: Mond
+    100024: Mondlicht
+    100026: Null
+    100028: Physikalischer_Himmel
+    100030: Schattenebene
+    100032: Sky_Dome
+    100034: Sky_Null
+    100036: Sonne
+    100038: Sonnenlicht
+    100040: //RootNode
+    100042: TableTop1
+    100044: TableTop2
+    400000: Boole
+    400002: Boole.1
+    400004: Camera
+    400006: CINEMA_4D_Editor
+    400008: Cube.1.3
+    400010: Cube.2.3
+    400012: Leg1
+    400014: Leg2
+    400016: Leg3
+    400018: Leg4
+    400020: Linseneffekt_Quelle
+    400022: Mond
+    400024: Mondlicht
+    400026: Null
+    400028: Physikalischer_Himmel
+    400030: Schattenebene
+    400032: Sky_Dome
+    400034: Sky_Null
+    400036: Sonne
+    400038: Sonnenlicht
+    400040: //RootNode
+    400042: TableTop1
+    400044: TableTop2
+    2300000: Leg1
+    2300002: Leg2
+    2300004: Leg3
+    2300006: Leg4
+    2300008: TableTop1
+    2300010: TableTop2
+    3300000: Leg1
+    3300002: Leg2
+    3300004: Leg3
+    3300006: Leg4
+    3300008: TableTop1
+    3300010: TableTop2
+    4300000: Leg1
+    4300002: Leg2
+    4300004: Leg3
+    4300006: Leg4
+    4300008: TableTop1
+    4300010: TableTop2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
